@@ -632,7 +632,7 @@ input[type="date"]:valid::before {
     padding: 0;
   }
   .form__right {
-    width: calc(100% + 60px);
+    width: 100%;
   }
 
   .footer__info-bottom {
