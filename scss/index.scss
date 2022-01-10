@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .container {
     max-width: 1300px;
     margin: 0 auto;
@@ -17,6 +21,7 @@
     color: #544729;
     &:hover {
         opacity: 0.8;
+        color: #544729;
     }
 }
 
