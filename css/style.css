@@ -607,6 +607,7 @@ input[type="date"]:valid::before {
   .main {
     min-height: 700px;
     padding-bottom: 120px;
+    background-size: 100% auto, cover;
     background-position: left bottom;
     background-image: url(../img/sky.png), url(../img/main-bg2.png);
   }
